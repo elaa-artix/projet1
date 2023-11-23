@@ -1,0 +1,25 @@
+e10f66f HEAD@{0}: commit: Ajout du fichier log.txt
+762271d HEAD@{1}: reset: moving to HEAD
+762271d HEAD@{2}: cherry-pick: Modification hobby
+d778e5d HEAD@{3}: checkout: moving from hobby to main
+2f848b3 HEAD@{4}: commit: Modification hobby
+d778e5d HEAD@{5}: checkout: moving from main to hobby
+d778e5d HEAD@{6}: merge meteo: Fast-forward
+285937f HEAD@{7}: checkout: moving from meteo to main
+d778e5d HEAD@{8}: commit: README dans la branche meteo
+dbcd57c HEAD@{9}: commit: Modification meteo
+285937f HEAD@{10}: checkout: moving from main to meteo
+285937f HEAD@{11}: commit: Hello World
+334172a HEAD@{12}: commit: Création du fichier README
+ede8427 HEAD@{13}: commit: stash apply
+ddeee9c HEAD@{14}: reset: moving to HEAD
+ddeee9c HEAD@{15}: reset: moving to HEAD
+ddeee9c HEAD@{16}: reset: moving to HEAD
+ddeee9c HEAD@{17}: reset: moving to HEAD
+ddeee9c HEAD@{18}: reset: moving to HEAD
+ddeee9c HEAD@{19}: Branch: renamed refs/heads/master to refs/heads/main
+ddeee9c HEAD@{21}: merge develop: Fast-forward
+cbaebc8 HEAD@{22}: checkout: moving from develop to master
+ddeee9c HEAD@{23}: commit: création des fichiers
+cbaebc8 HEAD@{24}: checkout: moving from master to develop
+cbaebc8 HEAD@{25}: commit (initial): Initial commit
